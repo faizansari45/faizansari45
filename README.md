@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/faiz-ansari-9b473222b**
 
-- ⚡ Fun fact **I am funnyfunny😅**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
