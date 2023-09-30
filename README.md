@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **f2az2234@gmail.com**
 
-- 📫 How to reach me **https://www.linkedin.com/in/faiz-ansari-9b473222b**
+- 📫 How to reach me **https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b**
 
 - ⚡ Fun fact **I am funny😅**
 
