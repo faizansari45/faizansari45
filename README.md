@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://twitter.com/@faizansari56591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faizansari56591" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd faiz ansari" height="30" width="40" /></a>
-<a href="https://fb.com/faiz ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiz ansari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100042539775342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiz ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/faiz_8042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiz_8042" height="30" width="40" /></a>
 <a href="https://discord.gg/boss_07#7032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="boss_07#7032" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@f2az2pmu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@f2az2pmu3" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/f2az2pmu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@f2az2pmu3" height="30" width="40" /></a>
 </p>
 
 
