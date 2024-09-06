@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-End Web Development**
 
-- 💬 Ask me about **f2az2234@gmail.com**
+- 💬 Ask me about **ansarifaiz0905@gmail.com**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b**
 
