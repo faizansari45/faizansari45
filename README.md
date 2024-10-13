@@ -20,15 +20,10 @@
 </p>
 
 
-
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/faizansari45/count.svg"/>
   </p>
-
-
-
-
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -40,9 +35,11 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b**
 
-- ⚡ Fun fact **I love experimenting with new technologies and contributing to open-source!👨‍💻**
+- ⚡ Fun fact **I love experimenting with new technologies and contributing to open-source!💻**
 
-<p align="left"> </p>
+###About me
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
