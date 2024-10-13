@@ -25,6 +25,12 @@
  </p>
 
 
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/parulchaddha/count.svg"/>
+  </p>
+
+
 
 
 
@@ -33,9 +39,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizansari45&label=Profile%20views&color=0e75b6&style=flat" alt="faizansari45" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FaizAnsari56591" target="blank"><img src="https://img.shields.io/twitter/follow/FaizAnsari56591?logo=twitter&style=for-the-badge" alt="FaizAnsari56591" /></a> </p>
 
-- 🌱 I’m currently learning **Back-End Web Development**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 💬 Ask me about **ansarifaiz0905@gmail.com**
 
@@ -43,15 +48,7 @@
 
 - ⚡ Fun fact **I am funny😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/FaizAnsari56591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FaizAnsari56591" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd faiz ansari" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100042539775342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiz ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/faiz_8042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiz_8042" height="30" width="40" /></a>
-<a href="https://discord.gg/boss_07#7032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="boss_07#7032" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/f2az2pmu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@f2az2pmu3" height="30" width="40" /></a>
-</p>
+<p align="left"> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
