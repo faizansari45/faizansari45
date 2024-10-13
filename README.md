@@ -20,10 +20,6 @@
 </p>
 
 
-<p align="center">
-<a href=#><img src="contributions.svg"></a> 
- </p>
-
 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
@@ -44,7 +40,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I love experimenting with new technologies and contributing to open-source!👨‍💻**
 
 <p align="left"> </p>
 
