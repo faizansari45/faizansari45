@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mohd Faiz Ansari</h1>
-<h3 align="center">Web Developer and Web Designer</h3>
+<!-- First Main Heading -->
+<h1 align="center"> Hi 👋, I'm Mohd Faiz Ansari <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<p align="center">
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;WEB%20DESIGNER;PROGRAMMER%20;TECH%20ENTHUSIAST;MERN%20STACK%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS;REACT%20DEVELOPER&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+<a href="https://discord.com/users/faiz_ans04" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://faizansari45.github.io/faiz_Portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://x.com/faiz_ans09" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/mohd-faiz-ansari-9b473222b" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/faiz_ans06/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+</p>
+
+
+<p align="center">
+<a href=#><img src="contributions.svg"></a> 
+ </p>
+
+
+
+
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
