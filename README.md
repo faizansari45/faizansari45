@@ -196,3 +196,10 @@ if (codeWorking){
 ```
 
 <hr />
+
+
+#
+
+<img src="https://raw.githubusercontent.com/faizansari45/faizansari45/output/snake.svg" alt="Snake animation" />
+
+#
