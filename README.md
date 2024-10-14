@@ -26,7 +26,7 @@
   </p>
 
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
@@ -136,6 +136,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Nextjs" />
+      <br>Nextjs
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
