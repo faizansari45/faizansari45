@@ -106,8 +106,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
+        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="40" height="40" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
