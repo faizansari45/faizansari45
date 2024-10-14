@@ -26,7 +26,7 @@
   </p>
 
 
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
@@ -53,23 +53,11 @@
 
 ###
 
-
 <br clear="both">
 
 <div align="center">
   <img height="155" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 </div>
-
-
-###
-
-
-<br clear="both">
-
-<div align="center">
-  <img height="155" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-</div>
-
 
 ###
 
