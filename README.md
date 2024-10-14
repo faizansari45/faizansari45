@@ -96,8 +96,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
@@ -146,8 +146,8 @@
       <br>VsCode
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
     </td>
  <td align="center" width="96">
       <a href="#macropower-tech">
