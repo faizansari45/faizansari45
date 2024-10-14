@@ -185,8 +185,7 @@
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MythicalMAxX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-https://github-profile-trophy.vercel.app/?username=faizansari45&theme=darkhub
+![](https://github-profile-trophy.vercel.app/?username=faizansari45&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
