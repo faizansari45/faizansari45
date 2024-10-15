@@ -175,28 +175,28 @@
 
 ---
 
-#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
+#### 𝘿͜𝙀͜𝙎͜𝙄͜𝙂͜𝙉͜/͜𝙑͜𝙄͜𝙎͜𝙐͜𝘼͜𝙇͜ 𝙏͜𝙊͜𝙊͜𝙇͜𝙎͜
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+#### 𝙒͜𝙀͜𝘽͜ 𝙃͜𝙊͜𝙎͜𝙏͜𝙄͜𝙉͜𝙂͜
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### 🅒🅘 / 🅒🅓
+#### 𝘾͜𝙄͜ /͜ 𝘾͜𝘿͜
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
+#### 𝘿͜𝘼͜𝙏͜𝘼͜ 𝘽͜𝘼͜𝙎͜𝙀͜ /͜ 𝙎͜𝙏͜𝘼͜𝙏͜𝙀͜
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
-#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
+#### 𝙑͜𝙀͜𝙍͜𝙎͜𝙄͜𝙊͜𝙉͜ 𝘾͜𝙊͜𝙉͜𝙏͜𝙍͜𝙊͜𝙇͜
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
