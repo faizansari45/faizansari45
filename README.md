@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+  𝘾͜𝙊͜𝙉͜𝙉͜𝙀͜𝘾͜𝙏͜ 𝙒͜𝙄͜𝙏͜𝙃͜ 𝙈͜𝙀͜
    </p>
 <p align="center">
 <a href="https://faizansari45.github.io/faiz_Portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -21,7 +21,7 @@
 
 
 <p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+ 𝙑͜𝙄͜𝙎͜𝙄͜𝙏͜𝙊͜𝙍͜ 𝘾͜𝙊͜𝙐͜𝙉͜𝙏͜<br>
   <img src="https://profile-counter.glitch.me/faizansari45/count.svg"/>
   </p>
 
@@ -58,7 +58,7 @@
 
 
 <p align="center"> 
- 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+ 𝙏͜𝙀͜𝘾͜𝙃͜ 𝙎͜𝙏͜𝘼͜𝘾͜𝙆͜<br>
   </p>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
