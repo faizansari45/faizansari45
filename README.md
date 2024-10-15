@@ -1,5 +1,5 @@
 <!-- First Main Heading -->
-<h1 align="center"> Hi 👋, I'm Mohd Faiz Ansari <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1 align="center"> 𝓗𝓲 👋, 𝓘'𝓶 𝓜𝓸𝓱𝓭 𝓕𝓪𝓲𝔃 𝓐𝓷𝓼𝓪𝓻𝓲 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
@@ -201,7 +201,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-### 🏆 GitHub Trophies
+### 🏆 𝙂͜𝙞͜𝙩͜𝙃͜𝙪͜𝙗͜ 𝙏͜𝙧͜𝙤͜𝙥͜𝙝͜𝙞͜𝙚͜𝙨͜
 ![](https://github-profile-trophy.vercel.app/?username=faizansari45&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
