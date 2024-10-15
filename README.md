@@ -179,12 +179,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Picsart](https://img.shields.io/badge/-Picsart-000?style=for-the-badge&logo=picsart)
 
 #### 𝐖𝐄𝐁 𝐇𝐎𝐒𝐓𝐈𝐍𝐆
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 
 #### 𝐂𝐈 / 𝐂𝐃
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
@@ -194,6 +197,7 @@
 #### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄 / 𝐒𝐓𝐀𝐓𝐄
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 #### 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋
