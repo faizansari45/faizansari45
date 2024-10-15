@@ -1,5 +1,5 @@
 <!-- First Main Heading -->
-<h1 align="center"> 𝓗𝓲 👋, 𝓘'𝓶 𝓜𝓸𝓱𝓭 𝓕𝓪𝓲𝔃 𝓐𝓷𝓼𝓪𝓻𝓲 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1 align="center"> 𝓗𝓲 👋, 𝓘'𝓶 𝓜𝓸𝓱𝓭 𝙁𝙖𝙞𝙯 𝘼𝙣𝙨𝙖𝙧𝙞 𝗙𝗮𝗶𝘇 𝗔𝗻𝘀𝗮𝗿𝗶 𝑭𝒂𝒊𝒛 𝑨𝒏𝒔𝒂𝒓𝒊 𝐅𝐚𝐢𝐳 𝐀𝐧𝐬𝐚𝐫𝐢 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
