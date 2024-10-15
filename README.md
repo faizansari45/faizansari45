@@ -1,5 +1,5 @@
 <!-- First Main Heading -->
-<h1 align="center"> 𝓗𝓲 👋, 𝓘'𝓶 𝓜𝓸𝓱𝓭 𝙁𝙖𝙞𝙯 𝘼𝙣𝙨𝙖𝙧𝙞 𝗙𝗮𝗶𝘇 𝗔𝗻𝘀𝗮𝗿𝗶 𝑭𝒂𝒊𝒛 𝑨𝒏𝒔𝒂𝒓𝒊 𝐅𝐚𝐢𝐳 𝐀𝐧𝐬𝐚𝐫𝐢 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1 align="center"> 𝑯𝒊 👋, 𝑰'𝒎 𝑴𝒐𝒉𝒅 𝑭𝒂𝒊𝒛 𝑨𝒏𝒔𝒂𝒓𝒊 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  𝘾͜𝙊͜𝙉͜𝙉͜𝙀͜𝘾͜𝙏͜ 𝙒͜𝙄͜𝙏͜𝙃͜ 𝙈͜𝙀͜
+  𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
    </p>
 <p align="center">
 <a href="https://faizansari45.github.io/faiz_Portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -21,7 +21,7 @@
 
 
 <p align="center"> 
- 𝙑͜𝙄͜𝙎͜𝙄͜𝙏͜𝙊͜𝙍͜ 𝘾͜𝙊͜𝙐͜𝙉͜𝙏͜<br>
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
   <img src="https://profile-counter.glitch.me/faizansari45/count.svg"/>
   </p>
 
@@ -58,7 +58,7 @@
 
 
 <p align="center"> 
- 𝙏͜𝙀͜𝘾͜𝙃͜ 𝙎͜𝙏͜𝘼͜𝘾͜𝙆͜<br>
+ 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊<br>
   </p>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
@@ -175,33 +175,33 @@
 
 ---
 
-#### 𝘿͜𝙀͜𝙎͜𝙄͜𝙂͜𝙉͜/͜𝙑͜𝙄͜𝙎͜𝙐͜𝘼͜𝙇͜ 𝙏͜𝙊͜𝙊͜𝙇͜𝙎͜
+#### 𝐃𝐄𝐒𝐈𝐆𝐍/𝐕𝐈𝐒𝐔𝐀𝐋 𝐓𝐎𝐎𝐋𝐒
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-#### 𝙒͜𝙀͜𝘽͜ 𝙃͜𝙊͜𝙎͜𝙏͜𝙄͜𝙉͜𝙂͜
+#### 𝐖𝐄𝐁 𝐇𝐎𝐒𝐓𝐈𝐍𝐆
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### 𝘾͜𝙄͜ /͜ 𝘾͜𝘿͜
+#### 𝐂𝐈 / 𝐂𝐃
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### 𝘿͜𝘼͜𝙏͜𝘼͜ 𝘽͜𝘼͜𝙎͜𝙀͜ /͜ 𝙎͜𝙏͜𝘼͜𝙏͜𝙀͜
+#### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄 / 𝐒𝐓𝐀𝐓𝐄
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
-#### 𝙑͜𝙀͜𝙍͜𝙎͜𝙄͜𝙊͜𝙉͜ 𝘾͜𝙊͜𝙉͜𝙏͜𝙍͜𝙊͜𝙇͜
+#### 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-### 🏆 𝙂͜𝙞͜𝙩͜𝙃͜𝙪͜𝙗͜ 𝙏͜𝙧͜𝙤͜𝙥͜𝙝͜𝙞͜𝙚͜𝙨͜
+### 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
 ![](https://github-profile-trophy.vercel.app/?username=faizansari45&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
