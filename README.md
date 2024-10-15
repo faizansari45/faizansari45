@@ -186,7 +186,7 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### 🅒🅘 / 🅒🅓
+#### 🅒🅘 / 🅒🅓   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴  ℂ𝕆ℕℕ𝔼ℂ𝕋 𝕎𝕀𝕋ℍ 𝕄𝔼  𝓒𝓞𝓝𝓝𝓔𝓒𝓣 𝓦𝓘𝓣𝓗 𝓜𝓔  ⒸⓄⓃⓃⒺⒸⓉ ⓌⒾⓉⒽ ⓂⒺ
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
